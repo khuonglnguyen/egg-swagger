@@ -1,0 +1,9 @@
+2023-02-10 09:08:43,283 ERROR 13780 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13780
+hostname: DESKTOP-6DKGL99
+

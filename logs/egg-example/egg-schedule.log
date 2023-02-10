@@ -1,0 +1,66 @@
+2023-02-10 09:06:02,348 INFO 13500 [Timer] D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69837654ms at 2023-02-11 04:30:00.002
+2023-02-10 09:06:02,348 INFO 13500 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 53637652ms at 2023-02-11 00:00:00.000
+2023-02-10 09:06:02,349 INFO 13500 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53638652ms at 2023-02-11 00:00:01.001
+2023-02-10 09:06:02,221 INFO 2088 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 09:06:02,221 INFO 2088 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 09:06:02,221 INFO 2088 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 09:07:18,630 INFO 2300 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 09:07:18,630 INFO 2300 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 09:07:18,630 INFO 2300 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 09:07:36,712 INFO 15520 [Timer] D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69743291ms at 2023-02-11 04:30:00.003
+2023-02-10 09:07:36,713 INFO 15520 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 53543288ms at 2023-02-11 00:00:00.001
+2023-02-10 09:07:36,713 INFO 15520 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53544287ms at 2023-02-11 00:00:01.000
+2023-02-10 09:07:36,589 INFO 4084 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 09:07:36,589 INFO 4084 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 09:07:36,589 INFO 4084 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 09:08:03,169 INFO 13780 [Timer] D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69716834ms at 2023-02-11 04:30:00.003
+2023-02-10 09:08:03,169 INFO 13780 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 53516831ms at 2023-02-11 00:00:00.000
+2023-02-10 09:08:03,170 INFO 13780 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53517831ms at 2023-02-11 00:00:01.001
+2023-02-10 09:08:03,043 INFO 9528 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 09:08:03,043 INFO 9528 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 09:08:03,043 INFO 9528 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 09:08:49,697 INFO 5804 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 09:08:49,697 INFO 5804 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 09:08:49,697 INFO 5804 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 09:10:25,766 INFO 2656 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 09:10:25,767 INFO 2656 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 09:10:25,767 INFO 2656 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 09:10:49,897 INFO 5680 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 09:10:49,897 INFO 5680 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 09:10:49,897 INFO 5680 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 09:10:56,709 INFO 19600 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 09:10:56,709 INFO 19600 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 09:10:56,709 INFO 19600 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 09:12:44,606 INFO 11032 [Timer] D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69435396ms at 2023-02-11 04:30:00.002
+2023-02-10 09:12:44,607 INFO 11032 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 53235394ms at 2023-02-11 00:00:00.001
+2023-02-10 09:12:44,607 INFO 11032 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53236393ms at 2023-02-11 00:00:01.000
+2023-02-10 09:12:44,485 INFO 19640 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 09:12:44,485 INFO 19640 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 09:12:44,485 INFO 19640 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 09:19:05,192 INFO 2580 [Timer] D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69054812ms at 2023-02-11 04:30:00.004
+2023-02-10 09:19:05,192 INFO 2580 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 52854808ms at 2023-02-11 00:00:00.000
+2023-02-10 09:19:05,192 INFO 2580 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 52855808ms at 2023-02-11 00:00:01.000
+2023-02-10 09:19:05,052 INFO 12484 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 09:19:05,052 INFO 12484 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 09:19:05,052 INFO 12484 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 11:14:56,142 INFO 20324 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 11:14:56,142 INFO 20324 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 11:14:56,142 INFO 20324 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 11:14:57,063 INFO 20448 [Timer] D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62102940ms at 2023-02-11 04:30:00.003
+2023-02-10 11:14:57,063 INFO 20448 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 45902937ms at 2023-02-11 00:00:00.000
+2023-02-10 11:14:57,063 INFO 20448 [Timer] D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45903937ms at 2023-02-11 00:00:01.000
+2023-02-10 11:14:57,371 INFO 17092 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 11:14:57,371 INFO 17092 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 11:14:57,371 INFO 17092 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 11:15:26,956 INFO 4032 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 11:15:26,956 INFO 4032 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 11:15:26,956 INFO 4032 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 11:16:07,388 INFO 19600 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 11:16:07,388 INFO 19600 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 11:16:07,388 INFO 19600 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 11:16:46,126 INFO 20148 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 11:16:46,126 INFO 20148 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 11:16:46,126 INFO 20148 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-02-10 11:17:13,322 INFO 18376 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-02-10 11:17:13,322 INFO 18376 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-02-10 11:17:13,322 INFO 18376 [egg-schedule]: register schedule D:\Projects\egg-swagger\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
